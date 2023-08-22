@@ -1,4 +1,4 @@
-## Hi there, visitor ![Visitor Count](https://profile-counter.glitch.me/gniarchos/count.svg)! 👋 <br/>
+## Hi there! 👋 <br/>
 Welcome to my github profile! 🧑‍💻
 
 Check out my [Portfolio](https://gniarchos.github.io/portfolio/).
