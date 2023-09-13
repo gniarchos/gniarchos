@@ -1,5 +1,5 @@
 # <p align="center"> Hello there! 👋 </p>
-<p align="center">Welcome to my github profile! 🧑‍💻 </p>
+<p align="center">Welcome to my GitHub profile! 🧑‍💻 </p>
 
 <p align="center"> Check out my <a href="https://gniarchos.github.io/portfolio/">Portfolio</a>. </p>
 
